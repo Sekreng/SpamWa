@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 
-# Creator :  ./FUKUR0-3XP
+# Creator :  ./SEKRENG-WIRENG
 # Team : Black Coders Satanic Exploiter Team ( BCA - X666X )
 # Recode Tidak Akan Membuat Anda Menjadi Pencipta Kode :3
 
@@ -40,7 +40,7 @@ def Banner():
   ___) | |_) | (_| | | | | | |   \ V  V / (_| |
  |____/| .__/ \__,_|_| |_| |_|    \_/\_/ \__,_|
        |_|                                     
-                   '''+W+'Creator : ./Fukur0\n\t\t   YT : Jejak Cyber')
+                   '''+W+'Creator : ./Sekreng0\n\t\t   YT : Jejak Cyber')
                    
 def RupaRupa():
 	print
